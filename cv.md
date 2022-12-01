@@ -44,5 +44,6 @@ This is my first deploied project [CV](https://a-reznikov.github.io/demo-rs/cv)
         * 2022. Python: basics and applications [certificate](https://stepik.org/cert/1500134)
     * GeekBrains:
         * 2022. C#. Fast start.
+        
 ## Languauges:
 * __English:__ A2
