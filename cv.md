@@ -29,3 +29,20 @@ for j in range(n):
 for key,value in d.items():
     print(key,value)
 ```
+## Experience:
+This is my first deploied project [CV](https://a-reznikov.github.io/demo-rs/cv)
+## Education:
+* Belarusian-Russian university:
+    * 2013. Technical operation of vehicles
+    * 2015. Master's Degree in Technical Sciences 
+* Courses:
+    * EPAM:
+        * 2022. Version Control with Git
+        * 2022. Computer Science Basics
+    * Bioinformatics institute:
+        * 2021. Python programming [certificate](https://stepik.org/cert/1034363) 
+        * 2022. Python: basics and applications [certificate](https://stepik.org/cert/1500134)
+    * GeekBrains:
+        * 2022. C#. Fast start.
+## Languauges:
+* __English:__ A2
