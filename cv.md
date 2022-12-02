@@ -39,11 +39,13 @@ This is my first deploied project [CV](https://a-reznikov.github.io/demo-rs/cv)
     * EPAM:
         * 2022. Version Control with Git
         * 2022. Computer Science Basics
-    * Bioinformatics institute:
-        * 2021. Python programming [certificate](https://stepik.org/cert/1034363) 
-        * 2022. Python: basics and applications [certificate](https://stepik.org/cert/1500134)
+    * Stepik:
+        * Bioinformatics institute:
+            * 2021. Python programming [certificate](https://stepik.org/cert/1034363) 
+            * 2022. Python: basics and applications [certificate](https://stepik.org/cert/1500134)
+        * Web development for beginners: HTML and CSS (in progress 66%)
     * GeekBrains:
         * 2022. C#. Fast start.
-        
+
 ## Languauges:
 * __English:__ A2
