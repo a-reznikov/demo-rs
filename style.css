@@ -1,0 +1,63 @@
+div {
+  border: 1px solid black;
+}
+
+.parent {
+  display: flex;
+  width: 400px;
+  height: 400px;
+  background: yellowgreen;
+}
+
+.child {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  color: white;
+}
+
+.child1 {
+  width: 100px;
+  height: 100px;
+  flex-basis: 50%;
+  background: steelblue;
+  justify-content: space-between;
+}
+
+.child2 {
+  background: steelblue;
+}
+
+.child3 {
+  background: steelblue;
+}
+
+.vnyk {
+  display: flex;
+  width: 10px;
+  height: 10px;
+  background: purple;
+  border: 1px solid red;
+}
+
+.par-position {
+  position: absolute;
+  z-index: 1000;
+  width: 400px;
+  height: 400px;
+  background: rgb(128, 50, 205);
+}
+
+.child-position {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  color: white;
+  background: rgb(182, 82, 19);
+}
+
+.child1-position {
+  z-index: 10;
+}

@@ -34,19 +34,19 @@ for key,value in d.items():
 This is my first deploied project [CV](https://a-reznikov.github.io/demo-rs/cv)
 ## Education:
 * Belarusian-Russian university:
-    * 2013. Technical operation of vehicles
-    * 2015. Master's Degree in Technical Sciences 
+    * __2013__ Technical operation of vehicles
+    * __2015__ Master's Degree in Technical Sciences 
 * Courses:
-    * EPAM:
-        * 2022. Version Control with Git
-        * 2022. Computer Science Basics
-    * Stepik:
+    * __EPAM:__
+        * __2022__ Version Control with Git
+        * __2022__ Computer Science Basics
+    * __Stepik:__
         * Bioinformatics institute:
-            * 2021. Python programming [certificate](https://stepik.org/cert/1034363) 
-            * 2022. Python: basics and applications [certificate](https://stepik.org/cert/1500134)
+            * __2021__ Python programming [certificate](https://stepik.org/cert/1034363) 
+            * __2022__ Python: basics and applications [certificate](https://stepik.org/cert/1500134)
         * Web development for beginners: HTML and CSS (in progress 66%)
-    * GeekBrains:
-        * 2022. C#. Fast start.
+    * __GeekBrains:__
+        * __2022__ C#. Fast start.
 
 ## Languauges:
-* __English:__ A1 (Test by EPAM)
+* __English:__ A1 (*Test by EPAM*)
